@@ -1,5 +1,15 @@
-npm install ethers crypto -S bip39
+#### Install the following Libraries
 
-npm install -g ts-node
+`npm install ethers crypto -S bip39`
+
+`npm install -g ts-node`
+
+
+#### Run the script
+
+`ts-node ./src/generateMnemonic.ts`
+
+
+
 
 
